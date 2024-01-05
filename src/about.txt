@@ -1,1 +1,1 @@
-About CS105Java progect
+About CS106Java progect
