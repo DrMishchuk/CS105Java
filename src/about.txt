@@ -1,1 +1,7 @@
-About CS106Java progect!
+About CS106Java project!
+
+1. Module 1 - Hello Karel.
+https://docs.google.com/presentation/d/1eRUeyTSRWkw-_JDV5OGnGTkG5fzzy8H0/edit?usp=sharing&ouid=108494921726686318877&rtpof=true&sd=true
+https://web.stanford.edu/class/archive/cs/cs106a/cs106a.1152/handouts/index.html
+https://stanford.edu/~cpiech/karel/learn.html
+
